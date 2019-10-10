@@ -15,7 +15,7 @@ class LoginActivity : AppCompatActivity() {
 //            .get()
 //            .load("logoblueberry.png")
 //            .into(imageView)
-        imageView.setImageResource(R.drawable.logoblueberry)
+        imageView.setImageResource(R.drawable.symbollogo)
     }
 
     override fun onResume() {
